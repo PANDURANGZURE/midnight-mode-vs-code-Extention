@@ -10,8 +10,12 @@
 
 ### 🖥️ Preview
 
-**Code Editor View**  
-![Extension](image.png)
+**Download And Enjoy**  
+![Extension](image1.png)
+![Extension](home.png)
+**Code Editor View** 
+![Extension](code.png)
+
 
 ### 📥 Installation
 
