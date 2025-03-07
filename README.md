@@ -45,7 +45,7 @@ Want to improve the theme? Contributions are welcome! Fork the repository and su
 This project is licensed under the terms of the ISC License. See the [LICENSE](https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention/blob/master/LICENSE.txt) file for details.
 
 
-### 📞 Support & Feedback
+## 📞 Support & Feedback
 
 - **Issues**: [Report Here](https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention/issues)
 - **Issues**: [Report Here](https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention/issues)
