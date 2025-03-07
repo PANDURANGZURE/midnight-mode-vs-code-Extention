@@ -1,0 +1,21 @@
+{
+  "name": "midnight-mode",
+  "displayName": "Midnight Mode",
+  "description": "Switch to a soothing dark mode experience. Easy on the eyes, perfect for night browsing.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Mode (Dark Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Mode (Dark Theme)-color-theme.json"
+      }
+    ]
+  }
+}
