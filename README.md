@@ -15,21 +15,22 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 **Enjoy!** -->
 
-Midnight Mode - Dark Theme for VS Code
+#Midnight Mode - Dark Theme for VS Code
 
-A soothing dark theme for a better coding experience at night.
+##A soothing dark theme for a better coding experience at night.
 
 📌 Features
 
-Elegant and eye-friendly dark mode.
+*Elegant and eye-friendly dark mode.
 
-Perfect for night-time coding sessions.
+*Perfect for night-time coding sessions.
 
-Improved syntax highlighting for better readability.
+*Improved syntax highlighting for better readability.
 
 🖥️ Preview
 
-Code Editor View
+*Code Editor View
+![Extention](image.png)
 
 
 
