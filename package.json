@@ -2,13 +2,15 @@
   "name": "midnight-mode",
   "displayName": "Midnight Mode",
   "description": "Switch to a soothing dark mode experience. Easy on the eyes, perfect for night browsing.",
-  "version": "0.0.1",
+  "version": "1.5.0",
+  "publisher": "PandurangZure",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "MidnightMode.png",  
   "contributes": {
     "themes": [
       {
@@ -17,5 +19,21 @@
         "path": "./themes/Midnight Mode (Dark Theme)-color-theme.json"
       }
     ]
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention/issues"
+  },
+  "homepage": "https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention#readme",
+  "extensionKind": ["ui"]
 }
