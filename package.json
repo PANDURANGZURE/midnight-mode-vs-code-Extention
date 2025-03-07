@@ -2,7 +2,7 @@
   "name": "midnight-mode",
   "displayName": "Midnight Mode",
   "description": "Switch to a soothing dark mode experience. Easy on the eyes, perfect for night browsing.",
-  "version": "1.6.0",
+  "version": "1.9.0",
   "publisher": "PandurangZure",
   "engines": {
     "vscode": "^1.98.0"

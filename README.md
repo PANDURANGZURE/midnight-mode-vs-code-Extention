@@ -10,10 +10,10 @@
 
 ## 🖥️ Preview
 
-##Download And Enjoy  
-![Extension](image1.png)
+Download And Enjoy  
+![Extension](image.png)
 ![Extension](home.png)
-##Code Editor View
+Code Editor View
 ![Extension](code.png)
 
 
